@@ -1,0 +1,20 @@
+:root {
+  --main-font: "Roboto", sans-serif;
+  --secondary-font: "Nunito Sans", sans-serif;
+}
+
+h1,
+.top-heading {
+  font-family: var(--main-font);
+}
+
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+.list-of-students {
+  font-family: var(--secondary-font);
+}
