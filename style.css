@@ -18,3 +18,10 @@ a,
 .list-of-students {
   font-family: var(--secondary-font);
 }
+
+/* for placeholder - TEMPORARY */
+rect {
+  background: #55595c;
+  width: 100vw;
+  height: 100vh;
+}
